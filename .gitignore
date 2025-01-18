@@ -1,0 +1,4 @@
+finetuned/
+tb_logs_detr/
+clearml_logs_trocr/
+lightning_logs/
