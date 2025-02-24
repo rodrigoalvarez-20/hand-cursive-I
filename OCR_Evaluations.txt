@@ -1,0 +1,43 @@
+TrOCR_Large_Stage1 - Astra_Yao V1
+LR: 1e-5
+BS: 8
+Epochs: 5
+Acc: 40
+Loss: 0.0004
+Time: 1:30 hrs
+CER Avg value: 4.1556
+WER Avg value: 7.2833
+
+
+TrOCR_Large_Handwritten - Burnice_White V1
+LR: 1e-5
+BS: 8
+Epochs: 5
+Acc: 40
+Loss: 0.0007
+Time: 1:30 hrs
+CER Avg value: ~
+WER Avg value: ~
+
+
+
+TrOCR_Large_Spanish - Ellen Joe V1
+LR: 1e-5
+BS: 8
+Epochs: 5
+Acc: 40
+Loss: 0.0001
+Time: 1:30 hrs
+CER Avg value: 4.0503
+WER Avg value: 7.1124
+
+
+TrOCR_Large_Printed - Seth Lowell V1
+LR: 1e-5
+BS: 8
+Epochs: 5
+Acc: 40
+Loss: 0.0005
+Time: 1:30 hrs
+CER Avg value: 4.1046
+WER Avg value: 7.3069

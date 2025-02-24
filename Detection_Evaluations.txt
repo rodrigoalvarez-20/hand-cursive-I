@@ -1,0 +1,59 @@
+DETR - Phoebe V1
+LR: 1e-4
+BBLR: 1e-5
+BS: 15
+ACC: 30
+EPOCHS: 100
+Loss: 0.579
+Loss Box: 0.01
+Time: 2:30 hrs
+IOU: 0.8155 - Precision: 0.9806 - Recall: 0.9914 - F1: 0.9860
+Total Evaluation items: 27386 - Total Correct Items: 26628 - Total Incorrect Items: 528 - Total False Negatives: 230
+map: 0.612
+map_50: 0.957
+map_75: 0.709
+
+
+RTDETR - Carlotta V1
+LR: 1e-4
+BBLR: 1e-5
+BS: 15
+ACC: 30
+EPOCHS: 100
+Loss: 4.570
+Loss Box: 0.047
+Time: 2 hrs
+IOU: 0.8313 - Precision: 0.9781 - Recall: 0.9937 - F1: 0.9858
+Total Evaluation items: 27386 - Total Correct Items: 26621 - Total Incorrect Items: 595 - Total False Negatives: 170
+map: 0.677
+map_50:0.965
+map_75: 0.816
+
+
+YOLOS - Roccia V1
+LR: 1e-4
+BS: 8
+ACC: 16
+EPOCHS: 100
+Loss: 0.545
+Loss Box: 0.013
+Time: 4 hrs
+IOU: 0.8067 - Precision: 0.9848 - Recall: 0.9939 - F1: 0.9893
+Total Evaluation items: 27386 - Total Correct Items: 26808 - Total Incorrect Items: 414 - Total False Negatives: 164
+map: 0.587
+map_50: 0.962
+map_75: 0.658
+
+
+YOLO - Zani V1
+LR: 1e-4
+BS: 15
+EPOCHS: 100
+Loss: 0.2758
+Loss Box: 0.2758
+Time: 21 min
+IOU: 0.8351 - Precision: 0.9912 - Recall: 0.9968 - F1: 0.9940
+Total Evaluation items: 27386 - Total Correct Items: 27058 - Total Incorrect Items: 241 - Total False Negatives: 87
+map: 0.621
+map_50: 0.973
+map_75: 0.674

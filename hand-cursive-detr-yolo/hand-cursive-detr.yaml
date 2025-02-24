@@ -1,0 +1,8 @@
+path: /home/ralvarez22/Documentos/trocr_hand/hand-cursive-I/hand-cursive-detr-yolo
+train: images/train
+val: images/val
+
+# Classes
+names:
+  0: words
+  1: word
